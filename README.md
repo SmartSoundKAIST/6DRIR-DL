@@ -16,7 +16,7 @@ The 6DoF directional RIR dataset (aka **6DRIR-DL**) includes room impulse respon
 
 #### Paper ####
 
-The full details of **6DRIR-DL** will be presented at the "International Conference on Spatial and Immersive Audio 2023 August 23–25, Huddersfield, UK" with the title "Six degrees-of-freedom room impulse response dataset measured over a dense loudspeaker grid (6DRIR-DL)".
+Details of **6DRIR-DL** can be also found in the conference paper: <a href="http://www.aes.org/e-lib/browse.cfm?elib=22184"> "Six degrees-of-freedom room impulse response dataset measured over a dense loudspeaker grid (6DRIR-DL)" </a>, presented at "International Conference on Spatial and Immersive Audio", 2023 August 23–25, Huddersfield, UK
 
 #### License ####
 
