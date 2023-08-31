@@ -161,6 +161,7 @@ The utility `convMeas2SPH.m` is the Matlab script for converting RIRs in the dat
 
   (1) `mtimesx` library: for matrix multiplication over tensor data
   https://www.mathworks.com/matlabcentral/fileexchange/25977-mtimesx-fast-matrix-multiply-with-multi-dimensional-support
+  
   (2) `Spherical array processing toolboxes` by Archontis Politis 
           https://github.com/polarch/Spherical-Array-Processing
           https://github.com/polarch/Array-Response-Simulator
