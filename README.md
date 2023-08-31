@@ -181,11 +181,11 @@ The utility `convMeas2SPH.m` is the Matlab script for converting RIRs in the dat
     - `ndat`: total length of trimmed RIR
     - `nkeep`: length of the non-tapered interval. Determined by `nkeep`=`Ttrim` $\times$ `c0` / `fs`
   
-    <img src="readme.assets/image-20230324152208655.png" alt="image-20230324152208655" style="zoom:80%;" />
+<img src="readme.assets/image-20230324152208655.png" alt="image-20230324152208655" style="zoom:80%;" />
   
   - `bplot`: if `true`, the code plots RIRs after encoding. The first sub-figure presents the squared sum of all microphone responses in the input SOFA file plotted with respect to the loudspeaker positions (abscissa)  and time (ordinate). The second sub-figure is the plot of the `W` channel response after the SH encoding and trimming. The following figures present the original and trimmed RIRs.
   
-  ![image-20230323225657945](readme.assets/image-20230323225657945.png)
+![image-20230323225657945](readme.assets/image-20230323225657945.png)
   
   - `tag`: extra tag to be added to the file name for saving
   
